@@ -6,7 +6,7 @@ I am an aspiring passionate and detail-oriented cybersecurity professional with 
 
 ## Objective
 
-My journey in cybersecurity has led me to develop a passion for security operations in the vast world of cybersecurity domains. Eager to transition into this field, specifically aiming to join teams of systems adminitrators, SOC analyst, or digital forensics to showcase my skills and ambition with work that inspries me and give me drive to be the best contribution to a companies cybersecurity structure that I can.  
+My journey in cybersecurity has led me to develop a passion for security operations in the vast world of cybersecurity domains. Eager to transition into this field, specifically aiming to join teams of systems adminitrators, SOC analyst, or digital forensics to showcase my skills and ambition with work that inspries me and give me drive to be an asset and contribution to an organizations cybersecurity structure.  
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
