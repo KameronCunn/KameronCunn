@@ -5,9 +5,8 @@
 I am an aspiring passionate and detail-oriented cybersecurity professional with a strong foundation in security principles, network defense, and risk management, backed by my CompTIA Security+ certification. I have gained hands-on experience through Southern Methodist University's comprehensive cybersecurity bootcamp, where I worked with real-world tools and techniques to detect, analyze, and mitigate security threats. This practical experience, combined with my certification, equips me with the skills and knowledge necessary to contribute effectively to an organization's security strategy. I am highly motivated to apply my expertise in an entry or mid-level role, helping to protect systems and data in today’s evolving threat landscape.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity has led me to develop a passion for security operations in the vast world of cybersecurity domains. Eager to transition into this field, specifically aiming to join teams of systems adminitrators, SOC analyst, or digital forensics to showcase my skills and ambition with work that inspries me and give me drive to be the best contribution to a companies cybersecurity structure that I can.  
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
