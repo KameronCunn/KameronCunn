@@ -11,14 +11,14 @@ My journey in cybersecurity has led me to develop a passion for security operati
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
-|                                               |                            |
+| Skill                                                                                                     | Associated Project         |
+|-----------------------------------------------------------------------------------------------------------|----------------------------|
+| Configuration, Virtualization, Cloud Security, Operating Syetem Hardening, Identity and Access Managment, System Administration| Building/Creating A Homelab|
+|                                                                                                           |                            |
+|                                                                                                           |                            |
+|                                                                                                           |                            |
+|                                                                                                           |                            |
+|                                                                                                           |                            |
 
 ## Tools
 
@@ -61,4 +61,4 @@ My journey in cybersecurity has led me to develop a passion for security operati
 </div>
 
 ## Projects
--
+- Building/Creating A Homelab
