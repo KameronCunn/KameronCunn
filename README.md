@@ -13,7 +13,7 @@ My journey in cybersecurity has led me to develop a passion for security operati
 
 | Skill                                                                                                     | Associated Project         |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|
-| Configuration, Virtualization, Cloud Security, Operating Syetem Hardening, Identity and Access Managment, System Administration| Building/Creating A Homelab|
+| Configuration, Virtualization, Cloud Security, Operating Syetem Hardening, Identity and Access Managment, System Administration| <a href="https://github.com/KameronCunn/Building-Creating-a-Homelab/tree/main">Building/Creating A Homelab|
 |                                                                                                           |                            |
 |                                                                                                           |                            |
 |                                                                                                           |                            |
@@ -61,4 +61,4 @@ My journey in cybersecurity has led me to develop a passion for security operati
 </div>
 
 ## Projects
-- Building/Creating A Homelab
+- <a href="https://github.com/KameronCunn/Building-Creating-a-Homelab/tree/main">Building/Creating A Homelab
