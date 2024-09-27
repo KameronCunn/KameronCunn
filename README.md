@@ -11,7 +11,7 @@ My journey in cybersecurity has led me to develop a passion for security operati
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                                                                                     | Associated Project         |
+| Skills                                                                                                     | Associated Project         |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|
 | Configuration, Virtualization, Cloud Security, Operating Syetem Hardening, Identity and Access Managment, System Administration| <a href="https://github.com/KameronCunn/Building-Creating-a-Homelab/tree/main">Building/Creating A Homelab|
 |                                                                                                           |                            |
