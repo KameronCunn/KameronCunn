@@ -19,6 +19,13 @@ My journey in cybersecurity has led me to develop a passion for security operati
 |                                                                                                           |<a href="https://github.com/KameronCunn/SOC-Automation/tree/main">SOC Automation|
 |                                                                                                           |<a href="https://github.com/KameronCunn/SOAR-EDR/tree/main">SOAR EDR|
 |                                                                                                           |<a href="https://github.com/KameronCunn/Project-6/tree/main">Password Cracking|
+|                                                                                                           |<a href="https://github.com/KameronCunn/Malware-Analysis/tree/main">Malware Analysis|
+|                                                                                                           |                                                                              |
+|                                                                                                           |                                                                              |
+|                                                                                                           |                                                                              |
+|                                                                                                           |                                                                              |
+|                                                                                                           |                                                                              |
+|                                                                                                           |                                                                              |
 
 ## Tools
 
@@ -66,3 +73,4 @@ My journey in cybersecurity has led me to develop a passion for security operati
 - <a href="https://github.com/KameronCunn/Active-Directory">Active DIrectory
 - <a href="https://github.com/KameronCunn/SOC-Automation/tree/main">SOC Automation
 - <a href="https://github.com/KameronCunn/Project-6/tree/main">Password Cracking
+- <a href="https://github.com/KameronCunn/Malware-Analysis/tree/main">Malware Analysis
