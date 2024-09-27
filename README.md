@@ -24,7 +24,7 @@ My journey in cybersecurity has led me to develop a passion for security operati
 |                                                                                                           |<a href="https://github.com/KameronCunn/Network-Analysis/tree/main">Network Analysis|
 |                                                                                                           |<a href="https://github.com/KameronCunn/File-Integrity-Monitoring">File Integrity Monitoring|
 |                                                                                                           |<a href="https://github.com/KameronCunn/File-Integrity-Monitoring">Endpoint Analysis|
-|                                                                                                           |                                                                              |
+|                                                                                                           |<a href="https://github.com/KameronCunn/Key-Logger">Key Logger|
 |                                                                                                           |                                                                              |
 
 ## Tools
@@ -78,3 +78,4 @@ My journey in cybersecurity has led me to develop a passion for security operati
 - <a href="https://github.com/KameronCunn/Network-Analysis/tree/main">Network Analysis
 - <a href="https://github.com/KameronCunn/File-Integrity-Monitoring">File Integrity Monitoring
 - <a href="https://github.com/KameronCunn/File-Integrity-Monitoring">Endpoint Analysis
+- <a href="https://github.com/KameronCunn/Key-Logger">Key Logger|
