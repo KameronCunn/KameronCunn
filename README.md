@@ -14,7 +14,7 @@ My journey in cybersecurity has led me to develop a passion for security operati
 | Skills                                                                                                     | Associated Project         |
 |-----------------------------------------------------------------------------------------------------------|----------------------------|
 | Configuration, Virtualization, Cloud Security, Operating Syetem Hardening, Identity and Access Managment, | <a href="https://github.com/KameronCunn/Building-Creating-a-Homelab/tree/main">Building/Creating A Homelab|
-|                                                                                                           |<a href="https://github.com/KameronCunn/Project-2/blob/main/README.md">Build/Create Honey Pot|
+|Networking, Operating System Proficiency, Programming and Scripting Skills, Incident Detection and Response, Data Analysis, Ethical Hacking, Virtualization, Documentation and Communication |<a href="https://github.com/KameronCunn/Project-2/blob/main/README.md">Build/Create Honey Pot|
 |                                                                                                           |<a href="https://github.com/KameronCunn/Active-Directory">Active DIrectory|
 |                                                                                                           |<a href="https://github.com/KameronCunn/SOC-Automation/tree/main">SOC Automation|
 |                                                                                                           |<a href="https://github.com/KameronCunn/SOAR-EDR/tree/main">SOAR EDR|
