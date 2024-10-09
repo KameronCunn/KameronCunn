@@ -60,6 +60,7 @@ My journey in cybersecurity has led me to develop a passion for security operati
 ### Cloud
 <div>
  <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Vultr-007BFC?&style=for-the-badge&logo=Vultr&logoColor=white" />
 </div>
 
 ## Certifications
