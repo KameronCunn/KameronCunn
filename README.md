@@ -36,6 +36,8 @@ My journey in cybersecurity has led me to develop a passion for security operati
 <div>
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Windows-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Debian-A81D33?&style=for-the-badge&logo=Debian&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 <div></div>
 
 ### Network
