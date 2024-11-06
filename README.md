@@ -54,7 +54,8 @@ My journey in cybersecurity has led me to develop a passion for security operati
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-00C0C7?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" />    
+    <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=Kibana&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Wazuh-005571?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### Cloud
